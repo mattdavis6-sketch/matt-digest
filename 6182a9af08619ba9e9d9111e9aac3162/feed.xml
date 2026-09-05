@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0">
+  <channel>
+    <title>Matt's Digest</title>
+    <link>https://mattdavis6-sketch.github.io/matt-digest</link>
+    <atom:link href="https://mattdavis6-sketch.github.io/matt-digest/6182a9af08619ba9e9d9111e9aac3162/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>A private, unlisted audio digest. Weekly synthesis of the shows in shows.json, plus one-off briefings. Not for distribution.</description>
+    <language>en-us</language>
+    <itunes:author>Matt Davis</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:block>Yes</itunes:block>
+    <googleplay:block>Yes</googleplay:block>
+    <itunes:image href="https://mattdavis6-sketch.github.io/matt-digest/6182a9af08619ba9e9d9111e9aac3162/artwork.jpg"/>
+    <itunes:category text="Society &amp; Culture"/>
+    <itunes:owner>
+      <itunes:name>Matt Davis</itunes:name>
+      <itunes:email>mattdavis6@gmail.com</itunes:email>
+    </itunes:owner>
+    <item>
+      <title>Digest - Week of Sept 1, 2026</title>
+      <description>Shapiro Ep. 2498 and 2499, two Glenn Beck Best of the Program recaps (9/2, 9/3), Arthur Brooks on finding your faith, and Peter Attia #406 on headache. 389 minutes of source audio.</description>
+      <itunes:summary>Shapiro Ep. 2498 and 2499, two Glenn Beck Best of the Program recaps (9/2, 9/3), Arthur Brooks on finding your faith, and Peter Attia #406 on headache. 389 minutes of source audio.</itunes:summary>
+      <pubDate>Fri, 04 Sep 2026 09:56:00 -0400</pubDate>
+      <guid isPermaLink="false">tcbc-digest-20260904-a4f1c2e7</guid>
+      <enclosure url="https://github.com/mattdavis6-sketch/matt-digest/releases/download/audio/digest-2026-09-04.mp3" length="5118624" type="audio/mpeg"/>
+      <itunes:duration>00:14:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Digest - Catch-Up: Huberman and Mel Robbins</title>
+      <description>The two shows the first digest missed. Huberman Lab 8/31 on accelerating learning with Joe Liemandt, Mel Robbins 9/3 on self-doubt with Benny Blanco, and Mel Robbins 8/31 on the gut-reset protocol. 284 minutes of source audio.</description>
+      <itunes:summary>The two shows the first digest missed. Huberman Lab 8/31 on accelerating learning with Joe Liemandt, Mel Robbins 9/3 on self-doubt with Benny Blanco, and Mel Robbins 8/31 on the gut-reset protocol. 284 minutes of source audio.</itunes:summary>
+      <pubDate>Fri, 04 Sep 2026 11:53:00 -0400</pubDate>
+      <guid isPermaLink="false">tcbc-digest-20260904b-9d30fe15</guid>
+      <enclosure url="https://github.com/mattdavis6-sketch/matt-digest/releases/download/audio/digest-2026-09-04-catchup.mp3" length="4775904" type="audio/mpeg"/>
+      <itunes:duration>00:13:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Briefing - Elders Quorum, Sunday Sept 6 2026</title>
+      <description>What the September 6 schedule change is, what the 25-minute meeting covers, what the Camille N. Johnson / Elder Valenzuela video says, and section 5 of the Implementation Guide - enough to decide whether a teacher can carry it.</description>
+      <itunes:summary>What the September 6 schedule change is, what the 25-minute meeting covers, what the Camille N. Johnson / Elder Valenzuela video says, and section 5 of the Implementation Guide - enough to decide whether a teacher can carry it.</itunes:summary>
+      <pubDate>Fri, 04 Sep 2026 12:15:00 -0400</pubDate>
+      <guid isPermaLink="false">tcbc-brief-20260904-eq-7b8c04aa</guid>
+      <enclosure url="https://github.com/mattdavis6-sketch/matt-digest/releases/download/audio/briefing-2026-09-06-elders-quorum.mp3" length="5091120" type="audio/mpeg"/>
+      <itunes:duration>00:14:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
