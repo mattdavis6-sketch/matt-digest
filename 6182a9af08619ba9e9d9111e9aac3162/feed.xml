@@ -50,5 +50,15 @@
       <itunes:duration>00:14:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Digest - Fri Sept 5 - AGI announced, and Bernie moves to outlaw it</title>
+      <description>All-In episode 288 on GPT-6, the bubble question and the Hugging Face agent story; Glenn Beck's Best of the Program on the Sanders AI bill; and Ben Shapiro on the Lindsay Clancy mistrial. About 179 minutes of source audio.</description>
+      <itunes:summary>All-In episode 288 on GPT-6, the bubble question and the Hugging Face agent story; Glenn Beck's Best of the Program on the Sanders AI bill; and Ben Shapiro on the Lindsay Clancy mistrial. About 179 minutes of source audio.</itunes:summary>
+      <pubDate>Sat, 05 Sep 2026 09:42:54 -0400</pubDate>
+      <guid isPermaLink="false">tcbc-digest-202609050942-135774a2</guid>
+      <enclosure url="https://github.com/mattdavis6-sketch/matt-digest/releases/download/audio/digest-2026-09-05-0942.mp3" length="6759792" type="audio/mpeg"/>
+      <itunes:duration>00:18:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
