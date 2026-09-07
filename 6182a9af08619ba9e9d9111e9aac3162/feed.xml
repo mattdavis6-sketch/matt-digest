@@ -60,5 +60,15 @@
       <itunes:duration>00:18:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Digest - Mon Sept 7: Attia's full blood pressure protocol</title>
+      <description>Peter Attia's blood pressure AMA rebroadcast, Mel Robbins with Gary Vaynerchuk on excuses, Ben Shapiro reacting to socialist TikToks, and Nick Shirley suing California over AB 2624. 175 minutes of source audio.</description>
+      <itunes:summary>Peter Attia's blood pressure AMA rebroadcast, Mel Robbins with Gary Vaynerchuk on excuses, Ben Shapiro reacting to socialist TikToks, and Nick Shirley suing California over AB 2624. 175 minutes of source audio.</itunes:summary>
+      <pubDate>Mon, 07 Sep 2026 03:30:32 -0400</pubDate>
+      <guid isPermaLink="false">tcbc-digest-202609070330-2cca67d8</guid>
+      <enclosure url="https://github.com/mattdavis6-sketch/matt-digest/releases/download/audio/digest-2026-09-07-0330.mp3" length="5912928" type="audio/mpeg"/>
+      <itunes:duration>00:16:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
