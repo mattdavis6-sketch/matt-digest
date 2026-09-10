@@ -70,5 +70,15 @@
       <itunes:duration>00:16:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Digest - Thu Sept 10 - the three-dollar drone kill</title>
+      <description>Ben Shapiro on the West's birth-rate collapse and the Clancy jurors; Glenn Beck on drone-defense economics and unity versus merger; Huberman with Jared Rutter on how cells choose to burn or build; Arthur Brooks on introverts and extroverts; Mel Robbins with Kelly McGonigal on the seven free resources for joy. 470 source minutes.</description>
+      <itunes:summary>Ben Shapiro on the West's birth-rate collapse and the Clancy jurors; Glenn Beck on drone-defense economics and unity versus merger; Huberman with Jared Rutter on how cells choose to burn or build; Arthur Brooks on introverts and extroverts; Mel Robbins with Kelly McGonigal on the seven free resources for joy. 470 source minutes.</itunes:summary>
+      <pubDate>Thu, 10 Sep 2026 03:53:26 -0400</pubDate>
+      <guid isPermaLink="false">tcbc-digest-202609100353-26f516b6</guid>
+      <enclosure url="https://github.com/mattdavis6-sketch/matt-digest/releases/download/audio/digest-2026-09-10-0353.mp3" length="6260256" type="audio/mpeg"/>
+      <itunes:duration>00:17:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
