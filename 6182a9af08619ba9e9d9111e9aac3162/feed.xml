@@ -80,5 +80,15 @@
       <itunes:duration>00:17:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Digest - Sat Sept 12 - the Anthropic doomer resignation and the IPO trap</title>
+      <description>All-In on the viral Anthropic safety resignation, OpenAI's Navier-Stokes claim and AI data leakage, plus Ben Shapiro (Eps. 2504 and 2505) and Glenn Beck (Best of the Program, 9/10 and 9/11) on the Charlie Kirk anniversary and 25 years since 9/11. 302 minutes of source audio.</description>
+      <itunes:summary>All-In on the viral Anthropic safety resignation, OpenAI's Navier-Stokes claim and AI data leakage, plus Ben Shapiro (Eps. 2504 and 2505) and Glenn Beck (Best of the Program, 9/10 and 9/11) on the Charlie Kirk anniversary and 25 years since 9/11. 302 minutes of source audio.</itunes:summary>
+      <pubDate>Sat, 12 Sep 2026 03:35:29 -0400</pubDate>
+      <guid isPermaLink="false">tcbc-digest-202609120335-37d09e5f</guid>
+      <enclosure url="https://github.com/mattdavis6-sketch/matt-digest/releases/download/audio/digest-2026-09-12-0335.mp3" length="6016896" type="audio/mpeg"/>
+      <itunes:duration>00:16:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
