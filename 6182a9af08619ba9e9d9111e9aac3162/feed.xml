@@ -90,5 +90,15 @@
       <itunes:duration>00:16:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Digest - Mon Sept 14 - A Cholesterol Drug Aimed at Alzheimer's</title>
+      <description>The Peter Attia Drive #407 with Michael Davidson on early LDL lowering, obicetrapib and APOE4; The Mel Robbins Podcast with Jonathan Haidt on quick dopamine, boys and phones; and The Ben Shapiro Show on why Islam is incompatible with the West. 201 minutes of source audio.</description>
+      <itunes:summary>The Peter Attia Drive #407 with Michael Davidson on early LDL lowering, obicetrapib and APOE4; The Mel Robbins Podcast with Jonathan Haidt on quick dopamine, boys and phones; and The Ben Shapiro Show on why Islam is incompatible with the West. 201 minutes of source audio.</itunes:summary>
+      <pubDate>Mon, 14 Sep 2026 03:25:23 -0400</pubDate>
+      <guid isPermaLink="false">tcbc-digest-202609140325-1acde9eb</guid>
+      <enclosure url="https://github.com/mattdavis6-sketch/matt-digest/releases/download/audio/digest-2026-09-14-0325.mp3" length="6061680" type="audio/mpeg"/>
+      <itunes:duration>00:16:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
