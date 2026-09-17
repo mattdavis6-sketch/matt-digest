@@ -100,5 +100,15 @@
       <itunes:duration>00:16:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Digest - Thu Sept 17 - Arthur Brooks on Envy and Idols</title>
+      <description>Office Hours with Arthur Brooks on envy; Huberman Lab with Arthur Brooks on the three macronutrients of happiness; Perform with Andy Galpin and John Rusin on training without pain; Mel Robbins with Oprah Winfrey; All-In with JD Vance and Brad Gerstner; and two episodes each of Ben Shapiro and Glenn Beck's Best of the Program. 709 minutes of source audio.</description>
+      <itunes:summary>Office Hours with Arthur Brooks on envy; Huberman Lab with Arthur Brooks on the three macronutrients of happiness; Perform with Andy Galpin and John Rusin on training without pain; Mel Robbins with Oprah Winfrey; All-In with JD Vance and Brad Gerstner; and two episodes each of Ben Shapiro and Glenn Beck's Best of the Program. 709 minutes of source audio.</itunes:summary>
+      <pubDate>Thu, 17 Sep 2026 04:05:38 -0400</pubDate>
+      <guid isPermaLink="false">tcbc-digest-202609170405-9b00bf87</guid>
+      <enclosure url="https://github.com/mattdavis6-sketch/matt-digest/releases/download/audio/digest-2026-09-17-0405.mp3" length="5891760" type="audio/mpeg"/>
+      <itunes:duration>00:16:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
