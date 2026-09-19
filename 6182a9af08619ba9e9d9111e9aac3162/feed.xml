@@ -110,5 +110,15 @@
       <itunes:duration>00:16:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Digest - Sat Sept 19 - Gurley's COVID case, the AI fight</title>
+      <description>All-In Summit talks from Bill Gurley (Searching for Feynman) and Jared Isaacman (NASA), Glenn Beck's Best of the Program for 9/17 and 9/18 with Tristan Harris and the 200-hours loneliness monologue, and Ben Shapiro Ep. 2509 plus Titans on Tomorrow with Andrew Ross Sorkin. 295 source minutes.</description>
+      <itunes:summary>All-In Summit talks from Bill Gurley (Searching for Feynman) and Jared Isaacman (NASA), Glenn Beck's Best of the Program for 9/17 and 9/18 with Tristan Harris and the 200-hours loneliness monologue, and Ben Shapiro Ep. 2509 plus Titans on Tomorrow with Andrew Ross Sorkin. 295 source minutes.</itunes:summary>
+      <pubDate>Sat, 19 Sep 2026 03:34:36 -0400</pubDate>
+      <guid isPermaLink="false">tcbc-digest-202609190334-1c49dc71</guid>
+      <enclosure url="https://github.com/mattdavis6-sketch/matt-digest/releases/download/audio/digest-2026-09-19-0334.mp3" length="6307920" type="audio/mpeg"/>
+      <itunes:duration>00:17:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
