@@ -120,5 +120,15 @@
       <itunes:duration>00:17:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Digest - Mon Sept 21 - AppLovin's comeback, Mel's Me-We-Them</title>
+      <description>All-In Summit interview with AppLovin CEO Adam Foroughi, Mel Robbins on Let Them and difficult people, the Peter Attia AMA #89 thyroid sneak peek, Nick Shirley on California's high speed rail, and Ben Shapiro's Woke TikToks: Islamophobia Edition. 115 source minutes.</description>
+      <itunes:summary>All-In Summit interview with AppLovin CEO Adam Foroughi, Mel Robbins on Let Them and difficult people, the Peter Attia AMA #89 thyroid sneak peek, Nick Shirley on California's high speed rail, and Ben Shapiro's Woke TikToks: Islamophobia Edition. 115 source minutes.</itunes:summary>
+      <pubDate>Mon, 21 Sep 2026 03:17:36 -0400</pubDate>
+      <guid isPermaLink="false">tcbc-digest-202609210317-ce4b119b</guid>
+      <enclosure url="https://github.com/mattdavis6-sketch/matt-digest/releases/download/audio/digest-2026-09-21-0317.mp3" length="6014736" type="audio/mpeg"/>
+      <itunes:duration>00:16:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
