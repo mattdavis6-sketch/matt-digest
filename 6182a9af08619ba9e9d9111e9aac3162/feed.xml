@@ -130,5 +130,15 @@
       <itunes:duration>00:16:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Digest - Thu Sept 24 - The Cheap Tests Before Diabetes</title>
+      <description>Huberman Lab with Dr. Chris Thompson on gut health and weight loss, Mel Robbins with James Sexton on divorce, Arthur Brooks with Simon Sinek on optimism, All-In with Bending Spoons CEO Luca Ferrari, Ben Shapiro Ep. 2510 and 2511, and Glenn Beck's Best of the Program for 9/22 and 9/23. 525 source minutes.</description>
+      <itunes:summary>Huberman Lab with Dr. Chris Thompson on gut health and weight loss, Mel Robbins with James Sexton on divorce, Arthur Brooks with Simon Sinek on optimism, All-In with Bending Spoons CEO Luca Ferrari, Ben Shapiro Ep. 2510 and 2511, and Glenn Beck's Best of the Program for 9/22 and 9/23. 525 source minutes.</itunes:summary>
+      <pubDate>Thu, 24 Sep 2026 03:41:44 -0400</pubDate>
+      <guid isPermaLink="false">tcbc-digest-202609240341-1652ddef</guid>
+      <enclosure url="https://github.com/mattdavis6-sketch/matt-digest/releases/download/audio/digest-2026-09-24-0341.mp3" length="5476176" type="audio/mpeg"/>
+      <itunes:duration>00:15:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
