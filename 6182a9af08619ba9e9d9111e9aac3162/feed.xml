@@ -140,5 +140,15 @@
       <itunes:duration>00:15:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Digest - Sat Sept 26 - Labs or Companies, and Posture</title>
+      <description>All-In Ep. 290 on Anthropic's IPO, open models and AI regulation, Mel Robbins with body language researcher Vanessa Van Edwards, Ben Shapiro Ep. 2512 and 2513, and Glenn Beck's Best of the Program for 9/24 and 9/25. 391 source minutes.</description>
+      <itunes:summary>All-In Ep. 290 on Anthropic's IPO, open models and AI regulation, Mel Robbins with body language researcher Vanessa Van Edwards, Ben Shapiro Ep. 2512 and 2513, and Glenn Beck's Best of the Program for 9/24 and 9/25. 391 source minutes.</itunes:summary>
+      <pubDate>Sat, 26 Sep 2026 03:33:36 -0400</pubDate>
+      <guid isPermaLink="false">tcbc-digest-202609260333-296eb722</guid>
+      <enclosure url="https://github.com/mattdavis6-sketch/matt-digest/releases/download/audio/digest-2026-09-26-0333.mp3" length="6279264" type="audio/mpeg"/>
+      <itunes:duration>00:17:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
