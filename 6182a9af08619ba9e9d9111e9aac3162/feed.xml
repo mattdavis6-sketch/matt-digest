@@ -150,5 +150,15 @@
       <itunes:duration>00:17:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Digest - Mon Sept 28 - Inside a Muscle Drug's Journey</title>
+      <description>Peter Attia Drive #409 with Lloyd Klickstein on drug development and bimagrumab, Mel Robbins with Vivian Tu on escaping paycheck to paycheck, and Ben Shapiro's short essay on whether college is worth it. 229 minutes of source audio.</description>
+      <itunes:summary>Peter Attia Drive #409 with Lloyd Klickstein on drug development and bimagrumab, Mel Robbins with Vivian Tu on escaping paycheck to paycheck, and Ben Shapiro's short essay on whether college is worth it. 229 minutes of source audio.</itunes:summary>
+      <pubDate>Mon, 28 Sep 2026 03:19:35 -0400</pubDate>
+      <guid isPermaLink="false">tcbc-digest-202609280319-012fda48</guid>
+      <enclosure url="https://github.com/mattdavis6-sketch/matt-digest/releases/download/audio/digest-2026-09-28-0319.mp3" length="5430816" type="audio/mpeg"/>
+      <itunes:duration>00:15:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
