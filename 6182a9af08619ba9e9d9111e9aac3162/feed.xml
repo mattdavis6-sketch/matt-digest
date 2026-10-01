@@ -160,5 +160,15 @@
       <itunes:duration>00:15:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Digest - Thu Oct 1 - Testosterone Matters Less Than Advertised</title>
+      <description>Perform with Andy Galpin and Ben House on testosterone, Arthur Brooks on avoiding professional decline, Huberman Lab with Michael Pollan on consciousness, Mel Robbins with John Grisham, All-In with Daniel Ek and with Jake Paul and The Chainsmokers, Ben Shapiro's Clay Travis interview and Ep. 2516, two Glenn Beck Best of the Program recaps, and Nick Shirley on fentanyl. 767 minutes of source audio.</description>
+      <itunes:summary>Perform with Andy Galpin and Ben House on testosterone, Arthur Brooks on avoiding professional decline, Huberman Lab with Michael Pollan on consciousness, Mel Robbins with John Grisham, All-In with Daniel Ek and with Jake Paul and The Chainsmokers, Ben Shapiro's Clay Travis interview and Ep. 2516, two Glenn Beck Best of the Program recaps, and Nick Shirley on fentanyl. 767 minutes of source audio.</itunes:summary>
+      <pubDate>Thu, 01 Oct 2026 03:53:37 -0400</pubDate>
+      <guid isPermaLink="false">tcbc-digest-202610010353-fcfda19a</guid>
+      <enclosure url="https://github.com/mattdavis6-sketch/matt-digest/releases/download/audio/digest-2026-10-01-0353.mp3" length="5557536" type="audio/mpeg"/>
+      <itunes:duration>00:15:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
