@@ -170,5 +170,15 @@
       <itunes:duration>00:15:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Digest - Sat Oct 3 - All-In on the Superintelligence Accord</title>
+      <description>All-In episode 291 (Trump's superintelligence summit, the AI safety accord, GDP beats, midterm predictions), Ben Shapiro episode 2518 (the Cornell 7 documents, France's riots), and Glenn Beck's Best of the Program for 10/1 and 10/2 (Edith Wilson, Newburgh, heroes, the Flydubai hijacking). 233 source minutes.</description>
+      <itunes:summary>All-In episode 291 (Trump's superintelligence summit, the AI safety accord, GDP beats, midterm predictions), Ben Shapiro episode 2518 (the Cornell 7 documents, France's riots), and Glenn Beck's Best of the Program for 10/1 and 10/2 (Edith Wilson, Newburgh, heroes, the Flydubai hijacking). 233 source minutes.</itunes:summary>
+      <pubDate>Sat, 03 Oct 2026 03:19:05 -0400</pubDate>
+      <guid isPermaLink="false">tcbc-digest-202610030319-af16d23e</guid>
+      <enclosure url="https://github.com/mattdavis6-sketch/matt-digest/releases/download/audio/digest-2026-10-03-0319.mp3" length="6062688" type="audio/mpeg"/>
+      <itunes:duration>00:16:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
