@@ -180,5 +180,15 @@
       <itunes:duration>00:16:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Digest - Mon Oct 5 - Pregnancy as a Health Stress Test</title>
+      <description>Peter Attia #410 with Kathryn Gray on the biology of pregnancy, The Mel Robbins Podcast's listener-questions episode, and Ben Shapiro's 'I Read Marx So You Don't Have To.' 198 minutes of source audio.</description>
+      <itunes:summary>Peter Attia #410 with Kathryn Gray on the biology of pregnancy, The Mel Robbins Podcast's listener-questions episode, and Ben Shapiro's 'I Read Marx So You Don't Have To.' 198 minutes of source audio.</itunes:summary>
+      <pubDate>Mon, 05 Oct 2026 03:16:44 -0400</pubDate>
+      <guid isPermaLink="false">tcbc-digest-202610050316-de80d962</guid>
+      <enclosure url="https://github.com/mattdavis6-sketch/matt-digest/releases/download/audio/digest-2026-10-05-0316.mp3" length="5463072" type="audio/mpeg"/>
+      <itunes:duration>00:15:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
