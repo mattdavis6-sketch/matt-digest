@@ -190,5 +190,15 @@
       <itunes:duration>00:15:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Digest - Thu Oct 8 - The Testosterone Facts, Plus France Burning</title>
+      <description>Ben Shapiro (Ep. 2520 on the Montana film shutdown, Ep. 2521 on October 7), Glenn Beck (Best of the Program 10/6 with Mike Waltz and 10/7 with Annie Jacobsen), Nick Shirley on food stamp fraud, Mel Robbins with Dr. Michael Eisenberg on male hormones, Arthur Brooks on rewriting bad memories, and Huberman Lab with Dr. Beth Shapiro on de-extinction. 508 source minutes.</description>
+      <itunes:summary>Ben Shapiro (Ep. 2520 on the Montana film shutdown, Ep. 2521 on October 7), Glenn Beck (Best of the Program 10/6 with Mike Waltz and 10/7 with Annie Jacobsen), Nick Shirley on food stamp fraud, Mel Robbins with Dr. Michael Eisenberg on male hormones, Arthur Brooks on rewriting bad memories, and Huberman Lab with Dr. Beth Shapiro on de-extinction. 508 source minutes.</itunes:summary>
+      <pubDate>Thu, 08 Oct 2026 03:42:13 -0400</pubDate>
+      <guid isPermaLink="false">tcbc-digest-202610080342-45c109af</guid>
+      <enclosure url="https://github.com/mattdavis6-sketch/matt-digest/releases/download/audio/digest-2026-10-08-0342.mp3" length="5416128" type="audio/mpeg"/>
+      <itunes:duration>00:15:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
