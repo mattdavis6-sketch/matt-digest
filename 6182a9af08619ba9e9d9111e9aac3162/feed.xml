@@ -200,5 +200,15 @@
       <itunes:duration>00:15:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Digest - Sat Oct 10 - Is Claude Conscious, and How to Get Noticed</title>
+      <description>All-In on Claude consciousness, OpenAI's math papers and the France riots; Mel Robbins with Emory professor Marina Cooley on getting noticed at work; Ben Shapiro (Ep. 2522 and Ep. 2523, the Senate race by race); and Glenn Beck (Best of the Program 10/8 and 10/9). 385 source minutes.</description>
+      <itunes:summary>All-In on Claude consciousness, OpenAI's math papers and the France riots; Mel Robbins with Emory professor Marina Cooley on getting noticed at work; Ben Shapiro (Ep. 2522 and Ep. 2523, the Senate race by race); and Glenn Beck (Best of the Program 10/8 and 10/9). 385 source minutes.</itunes:summary>
+      <pubDate>Sat, 10 Oct 2026 03:31:55 -0400</pubDate>
+      <guid isPermaLink="false">tcbc-digest-202610100331-10fc198c</guid>
+      <enclosure url="https://github.com/mattdavis6-sketch/matt-digest/releases/download/audio/digest-2026-10-10-0331.mp3" length="6528816" type="audio/mpeg"/>
+      <itunes:duration>00:18:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
