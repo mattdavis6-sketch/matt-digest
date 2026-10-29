@@ -210,5 +210,15 @@
       <itunes:duration>00:18:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Digest - Thu Oct 29 - Brake First, Then Turn</title>
+      <description>Perform with Andy Galpin and speed coach Les Spellman, Huberman Lab with Ross Edgley, Arthur Brooks on being real in a fake world, Mel Robbins with her daughter Sawyer, two Ben Shapiro episodes (Talarico, plus the Kalshi CEO interview), two Glenn Beck Best of the Program episodes and Nick Shirley in Brazil. About 653 new source minutes (selected.json lists 871 minutes, including Attia #413 and the Ed Mylett episode, which were narrated on 10/26).</description>
+      <itunes:summary>Perform with Andy Galpin and speed coach Les Spellman, Huberman Lab with Ross Edgley, Arthur Brooks on being real in a fake world, Mel Robbins with her daughter Sawyer, two Ben Shapiro episodes (Talarico, plus the Kalshi CEO interview), two Glenn Beck Best of the Program episodes and Nick Shirley in Brazil. About 653 new source minutes (selected.json lists 871 minutes, including Attia #413 and the Ed Mylett episode, which were narrated on 10/26).</itunes:summary>
+      <pubDate>Thu, 29 Oct 2026 03:57:12 -0400</pubDate>
+      <guid isPermaLink="false">tcbc-digest-202610290357-0832f22d</guid>
+      <enclosure url="https://github.com/mattdavis6-sketch/matt-digest/releases/download/audio/digest-2026-10-29-0357.mp3" length="5770512" type="audio/mpeg"/>
+      <itunes:duration>00:16:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
