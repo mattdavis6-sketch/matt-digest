@@ -220,5 +220,15 @@
       <itunes:duration>00:16:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Digest - Sat Oct 31 - Anthropic's S-1 and the Borrowing Risk</title>
+      <description>All-In on Anthropic's IPO filing, Google's earnings and the midterms (E295), plus the All-In interview with WHOOP CEO Will Ahmed; Ben Shapiro Ep. 2538 on the Red Baron worker; Glenn Beck Best of the Program for 10/29 (Natalie Winters) and 10/30 (Brian Lilley, Andrew Klavan); and Nick Shirley in Brazil. About 305 source minutes.</description>
+      <itunes:summary>All-In on Anthropic's IPO filing, Google's earnings and the midterms (E295), plus the All-In interview with WHOOP CEO Will Ahmed; Ben Shapiro Ep. 2538 on the Red Baron worker; Glenn Beck Best of the Program for 10/29 (Natalie Winters) and 10/30 (Brian Lilley, Andrew Klavan); and Nick Shirley in Brazil. About 305 source minutes.</itunes:summary>
+      <pubDate>Sat, 31 Oct 2026 03:32:57 -0400</pubDate>
+      <guid isPermaLink="false">tcbc-digest-202610310332-bb2d179c</guid>
+      <enclosure url="https://github.com/mattdavis6-sketch/matt-digest/releases/download/audio/digest-2026-10-31-0332.mp3" length="5018688" type="audio/mpeg"/>
+      <itunes:duration>00:13:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
