@@ -230,5 +230,15 @@
       <itunes:duration>00:13:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Digest - Mon Nov 2 - Lifting Past Fifty, Cut Junk Volume</title>
+      <description>Peter Attia Drive #414 with Jeff Cavaliere on resistance training as we age, Mel Robbins with her daughter Sawyer on what parents get wrong, and two Ben Shapiro pieces on the Iowa Senate race and his midterm Senate forecast. 228 source minutes.</description>
+      <itunes:summary>Peter Attia Drive #414 with Jeff Cavaliere on resistance training as we age, Mel Robbins with her daughter Sawyer on what parents get wrong, and two Ben Shapiro pieces on the Iowa Senate race and his midterm Senate forecast. 228 source minutes.</itunes:summary>
+      <pubDate>Mon, 02 Nov 2026 03:36:32 -0500</pubDate>
+      <guid isPermaLink="false">tcbc-digest-202611020336-a0130b55</guid>
+      <enclosure url="https://github.com/mattdavis6-sketch/matt-digest/releases/download/audio/digest-2026-11-02-0336.mp3" length="6111216" type="audio/mpeg"/>
+      <itunes:duration>00:16:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
