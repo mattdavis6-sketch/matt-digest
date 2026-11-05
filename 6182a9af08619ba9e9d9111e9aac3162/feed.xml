@@ -240,5 +240,15 @@
       <itunes:duration>00:16:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Digest - Thu Nov 5 - Midterm Wipeout, Pain Times Resistance</title>
+      <description>Ben Shapiro Ep. 2540 and 2541 and two Glenn Beck Best of the Program episodes (11/3 and 11/4) on the midterms; Arthur Brooks with spine surgeon Chris Good on pain and happiness; Huberman Lab with Robert Greene on the sublime; and Mel Robbins with Eric Thomas on a 52-day reset. 475 source minutes.</description>
+      <itunes:summary>Ben Shapiro Ep. 2540 and 2541 and two Glenn Beck Best of the Program episodes (11/3 and 11/4) on the midterms; Arthur Brooks with spine surgeon Chris Good on pain and happiness; Huberman Lab with Robert Greene on the sublime; and Mel Robbins with Eric Thomas on a 52-day reset. 475 source minutes.</itunes:summary>
+      <pubDate>Thu, 05 Nov 2026 03:47:08 -0500</pubDate>
+      <guid isPermaLink="false">tcbc-digest-202611050347-2c3cbbb5</guid>
+      <enclosure url="https://github.com/mattdavis6-sketch/matt-digest/releases/download/audio/digest-2026-11-05-0347.mp3" length="6027264" type="audio/mpeg"/>
+      <itunes:duration>00:16:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
