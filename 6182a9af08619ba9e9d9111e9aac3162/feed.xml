@@ -250,5 +250,15 @@
       <itunes:duration>00:16:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Digest - Sat Nov 7 - Put Down the Load</title>
+      <description>The Ben Shapiro Show (Ep. 2542, Why the Market Crashed Days After the Election), two Glenn Beck Best of the Program recaps (11/5 and 11/6 with Carol Roth and Victor Davis Hanson), and The Mel Robbins Podcast with Eric Thomas (Stop Being Available). 219 source minutes.</description>
+      <itunes:summary>The Ben Shapiro Show (Ep. 2542, Why the Market Crashed Days After the Election), two Glenn Beck Best of the Program recaps (11/5 and 11/6 with Carol Roth and Victor Davis Hanson), and The Mel Robbins Podcast with Eric Thomas (Stop Being Available). 219 source minutes.</itunes:summary>
+      <pubDate>Sat, 07 Nov 2026 03:29:07 -0500</pubDate>
+      <guid isPermaLink="false">tcbc-digest-202611070329-41fa2ccc</guid>
+      <enclosure url="https://github.com/mattdavis6-sketch/matt-digest/releases/download/audio/digest-2026-11-07-0329.mp3" length="5468688" type="audio/mpeg"/>
+      <itunes:duration>00:15:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
