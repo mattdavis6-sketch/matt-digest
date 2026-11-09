@@ -260,5 +260,15 @@
       <itunes:duration>00:15:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Digest - Mon Nov 9 - All-In's midterm post-mortem</title>
+      <description>All-In on the midterm blowout, the four trillion dollar AI sell-off and the data center freeze; Peter Attia's AMA 91 preview on what lab testing can and cannot tell you; Mel Robbins with her 89-year-old mother-in-law on not waiting; and Ben Shapiro on writing the film Confession. 173 source minutes.</description>
+      <itunes:summary>All-In on the midterm blowout, the four trillion dollar AI sell-off and the data center freeze; Peter Attia's AMA 91 preview on what lab testing can and cannot tell you; Mel Robbins with her 89-year-old mother-in-law on not waiting; and Ben Shapiro on writing the film Confession. 173 source minutes.</itunes:summary>
+      <pubDate>Mon, 09 Nov 2026 03:28:25 -0500</pubDate>
+      <guid isPermaLink="false">tcbc-digest-202611090328-44d104d3</guid>
+      <enclosure url="https://github.com/mattdavis6-sketch/matt-digest/releases/download/audio/digest-2026-11-09-0328.mp3" length="5812992" type="audio/mpeg"/>
+      <itunes:duration>00:16:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
