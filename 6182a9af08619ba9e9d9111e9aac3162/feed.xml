@@ -270,5 +270,15 @@
       <itunes:duration>00:16:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Digest - Thu Nov 12 - Lembke on addiction to control</title>
+      <description>Huberman with Anna Lembke, Galpin with Ross Edgley, Arthur Brooks on AI loneliness, Mel Robbins on breast cancer risk, All-In with Axon CEO Rick Smith, plus two Ben Shapiro shows and two Glenn Beck Best of the Program recaps. 661 source minutes.</description>
+      <itunes:summary>Huberman with Anna Lembke, Galpin with Ross Edgley, Arthur Brooks on AI loneliness, Mel Robbins on breast cancer risk, All-In with Axon CEO Rick Smith, plus two Ben Shapiro shows and two Glenn Beck Best of the Program recaps. 661 source minutes.</itunes:summary>
+      <pubDate>Thu, 12 Nov 2026 11:36:00 -0500</pubDate>
+      <guid isPermaLink="false">tcbc-digest-202611121136-caeaa985</guid>
+      <enclosure url="https://github.com/mattdavis6-sketch/matt-digest/releases/download/audio/digest-2026-11-12-1136.mp3" length="5405328" type="audio/mpeg"/>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
