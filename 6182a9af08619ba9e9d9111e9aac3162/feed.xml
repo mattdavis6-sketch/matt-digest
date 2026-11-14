@@ -280,5 +280,15 @@
       <itunes:duration>00:15:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Digest - Sat Nov 14 - Jensen Huang out at Nvidia</title>
+      <description>All-In on Jensen Huang's ouster and the Anthropic IPO, Ben Shapiro on the Nvidia export-control fallout, two Glenn Beck Best of the Program episodes (fear of success, housing, and guests Carol Roth and Kelly Stewart Harcourt), and Mel Robbins with an OB-GYN on PMOS, endometriosis and PMDD. 291 minutes of source audio.</description>
+      <itunes:summary>All-In on Jensen Huang's ouster and the Anthropic IPO, Ben Shapiro on the Nvidia export-control fallout, two Glenn Beck Best of the Program episodes (fear of success, housing, and guests Carol Roth and Kelly Stewart Harcourt), and Mel Robbins with an OB-GYN on PMOS, endometriosis and PMDD. 291 minutes of source audio.</itunes:summary>
+      <pubDate>Sat, 14 Nov 2026 03:25:47 -0500</pubDate>
+      <guid isPermaLink="false">tcbc-digest-202611140325-2d48924f</guid>
+      <enclosure url="https://github.com/mattdavis6-sketch/matt-digest/releases/download/audio/digest-2026-11-14-0325.mp3" length="6349104" type="audio/mpeg"/>
+      <itunes:duration>00:17:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
