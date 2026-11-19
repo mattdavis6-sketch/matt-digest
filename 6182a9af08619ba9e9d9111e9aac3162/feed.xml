@@ -290,5 +290,15 @@
       <itunes:duration>00:17:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Digest - Thu Nov 19 - AGI Is Here, Mitochondria Myths</title>
+      <description>All-In with Databricks CEO Ali Ghodsi, Peter Attia with Navdeep Chandel on mitochondria, Huberman with Paul Stamets, Arthur Brooks on fear of aging, two Mel Robbins episodes, plus Shapiro and Beck on the week of outages. 708 source minutes.</description>
+      <itunes:summary>All-In with Databricks CEO Ali Ghodsi, Peter Attia with Navdeep Chandel on mitochondria, Huberman with Paul Stamets, Arthur Brooks on fear of aging, two Mel Robbins episodes, plus Shapiro and Beck on the week of outages. 708 source minutes.</itunes:summary>
+      <pubDate>Thu, 19 Nov 2026 03:43:03 -0500</pubDate>
+      <guid isPermaLink="false">tcbc-digest-202611190343-149de2e4</guid>
+      <enclosure url="https://github.com/mattdavis6-sketch/matt-digest/releases/download/audio/digest-2026-11-19-0343.mp3" length="5658912" type="audio/mpeg"/>
+      <itunes:duration>00:15:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
