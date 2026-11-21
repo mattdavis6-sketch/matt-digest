@@ -300,5 +300,15 @@
       <itunes:duration>00:15:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Digest - Sat Nov 21 - Anthropic IPO, Nvidia fallout, three questions</title>
+      <description>All-In on the Anthropic IPO, open source and Nvidia after Jensen; Ben Shapiro Ep. 2551 (GTA 6) and Ep. 2552 (Mamdani and Rikers); Glenn Beck's Best of the Program for 11/19 (with Jonathan Turley) and 11/20; and Mel Robbins' live coaching episode with Vinh Giang, 'If You Get Anxious Around Other People.' 345 source minutes.</description>
+      <itunes:summary>All-In on the Anthropic IPO, open source and Nvidia after Jensen; Ben Shapiro Ep. 2551 (GTA 6) and Ep. 2552 (Mamdani and Rikers); Glenn Beck's Best of the Program for 11/19 (with Jonathan Turley) and 11/20; and Mel Robbins' live coaching episode with Vinh Giang, 'If You Get Anxious Around Other People.' 345 source minutes.</itunes:summary>
+      <pubDate>Sat, 21 Nov 2026 03:31:06 -0500</pubDate>
+      <guid isPermaLink="false">tcbc-digest-202611210331-562ff9fa</guid>
+      <enclosure url="https://github.com/mattdavis6-sketch/matt-digest/releases/download/audio/digest-2026-11-21-0331.mp3" length="5413824" type="audio/mpeg"/>
+      <itunes:duration>00:15:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
