@@ -310,5 +310,15 @@
       <itunes:duration>00:15:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Digest - Mon Nov 23 - Cold plunges blunt lifting gains</title>
+      <description>Peter Attia Drive (AMA 47 rebroadcast: cold therapy), Mel Robbins (It Took Me 58 Years to Realize What I'll Tell You in 55 Minutes), and Ben Shapiro (Ben Shapiro Ranks James Bond). 126 source minutes.</description>
+      <itunes:summary>Peter Attia Drive (AMA 47 rebroadcast: cold therapy), Mel Robbins (It Took Me 58 Years to Realize What I'll Tell You in 55 Minutes), and Ben Shapiro (Ben Shapiro Ranks James Bond). 126 source minutes.</itunes:summary>
+      <pubDate>Mon, 23 Nov 2026 03:13:11 -0500</pubDate>
+      <guid isPermaLink="false">tcbc-digest-202611230313-1bf4a4b3</guid>
+      <enclosure url="https://github.com/mattdavis6-sketch/matt-digest/releases/download/audio/digest-2026-11-23-0313.mp3" length="5528016" type="audio/mpeg"/>
+      <itunes:duration>00:15:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
