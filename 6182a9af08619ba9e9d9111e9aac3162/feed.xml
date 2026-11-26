@@ -320,5 +320,15 @@
       <itunes:duration>00:15:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Digest - Thu Nov 26 - Ignore one-day readiness scores</title>
+      <description>All-In (CrowdStrike CEO George Kurtz on the AI cyberattack wave), Ben Shapiro (Ep. 2554 on Jensen Huang and Nvidia; Ep. 2555 against amnesty), Nick Shirley (the missing migrant children), Andy Galpin (Sub-2 marathon, carb fueling, readiness scores, recovery tools), Huberman Lab (Eckhart Tolle), Arthur Brooks (3 Ways to Love Being Alone), and Mel Robbins (Dr. Nicholas Epley on connection). 545 source minutes.</description>
+      <itunes:summary>All-In (CrowdStrike CEO George Kurtz on the AI cyberattack wave), Ben Shapiro (Ep. 2554 on Jensen Huang and Nvidia; Ep. 2555 against amnesty), Nick Shirley (the missing migrant children), Andy Galpin (Sub-2 marathon, carb fueling, readiness scores, recovery tools), Huberman Lab (Eckhart Tolle), Arthur Brooks (3 Ways to Love Being Alone), and Mel Robbins (Dr. Nicholas Epley on connection). 545 source minutes.</itunes:summary>
+      <pubDate>Thu, 26 Nov 2026 03:43:54 -0500</pubDate>
+      <guid isPermaLink="false">tcbc-digest-202611260343-be6e7c23</guid>
+      <enclosure url="https://github.com/mattdavis6-sketch/matt-digest/releases/download/audio/digest-2026-11-26-0343.mp3" length="5828400" type="audio/mpeg"/>
+      <itunes:duration>00:16:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
