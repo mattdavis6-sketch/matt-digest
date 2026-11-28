@@ -330,5 +330,15 @@
       <itunes:duration>00:16:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Digest - Sat Nov 28 - Shapiro vs Thanksgiving TikTok</title>
+      <description>A short holiday edition covering two Ben Shapiro Show episodes: Ben Shapiro Reacts To Woke TikToks: Thanksgiving Edition, and We Let Ben Shapiro Loose On The Daily Wire Website. 21 source minutes.</description>
+      <itunes:summary>A short holiday edition covering two Ben Shapiro Show episodes: Ben Shapiro Reacts To Woke TikToks: Thanksgiving Edition, and We Let Ben Shapiro Loose On The Daily Wire Website. 21 source minutes.</itunes:summary>
+      <pubDate>Sat, 28 Nov 2026 03:08:04 -0500</pubDate>
+      <guid isPermaLink="false">tcbc-digest-202611280308-36b12ff0</guid>
+      <enclosure url="https://github.com/mattdavis6-sketch/matt-digest/releases/download/audio/digest-2026-11-28-0308.mp3" length="1769040" type="audio/mpeg"/>
+      <itunes:duration>00:04:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
